@@ -8,3 +8,6 @@
 
 4. "No se si entendi bien el ejercicio" no se si la palabra clave debia ser una palabra especifica en comun fue lo unico 
 que no estoy seguro si lo realice correctamente
+  4.1. - no estoy muy claro que hace la opcion 1, no se si solo debe cargar los datos a la variable keywords porque con la opcion 2 se hace el mismo proceso
+
+5. Realice modificaciones en el archivo ya que no habia realizado el cierre del programa
