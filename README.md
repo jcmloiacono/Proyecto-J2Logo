@@ -11,3 +11,17 @@ que no estoy seguro si lo realice correctamente
   4.1. - no estoy muy claro que hace la opcion 1, no se si solo debe cargar los datos a la variable keywords porque con la opcion 2 se hace el mismo proceso
 
 5. Realice modificaciones en el archivo ya que no habia realizado el cierre del programa
+
+****************************** MODIFICACIONES REALIZADAS PARA EL SEGUNDO EJERCICIO ***************************
+
+1. Moridicacion y organizacion del menu de opciones
+
+2. Correccion de errores si el usuario introdice alguna palabra o letra en las opciones
+
+3. correccion de la funcion "cargar_keywords", ahora el usuario agrega a el archivo txt la palabra que desee
+
+4. Creacion de funcion "mostrar_keywords" para mostrar las palabras claves
+
+5. creacion de la tercera opcion y funcion "comprueba_keywords"
+
+6. detalles esteticos
